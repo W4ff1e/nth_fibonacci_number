@@ -2,7 +2,7 @@
 
 Simple Fibonacci Sequence generator built with inspiration from the Rust Programming Book
 
-[![Build & Release.](https://github.com/W4ff1e/nth_fibonacci_number/actions/workflows/build.yml/badge.svg?event=release)](https://github.com/W4ff1e/nth_fibonacci_number/actions/workflows/build.yml)
+[![Build & Release](https://github.com/W4ff1e/nth_fibonacci_number/actions/workflows/build.yml/badge.svg)](https://github.com/W4ff1e/nth_fibonacci_number/actions/workflows/build.yml)
 
 ## Dependencies
 
